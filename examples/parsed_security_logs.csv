@@ -1,0 +1,251 @@
+ip,timestamp,method,path,status,size,security_tag
+185.220.101.5,02/Oct/2026:16:39:51 +0000,DELETE,/search?q=' UNION SELECT NULL--,500,2326,SQL Injection Attempt
+185.220.101.5,02/Oct/2026:16:40:21 +0000,POST,/assets/style.css,201,4859,Normal Traffic
+192.168.1.50,02/Oct/2026:16:40:51 +0000,PUT,/assets/style.css,201,1303,Normal Traffic
+45.33.22.11,02/Oct/2026:16:41:21 +0000,GET,/api/v1/users,302,2028,Normal Traffic
+45.33.22.11,02/Oct/2026:16:41:51 +0000,POST,/login.php,200,670,Normal Traffic
+172.16.254.1,02/Oct/2026:16:42:21 +0000,POST,/dashboard,500,1964,Normal Traffic
+185.220.101.5,02/Oct/2026:16:42:51 +0000,POST,/assets/style.css,302,3690,Normal Traffic
+185.220.101.5,02/Oct/2026:16:43:21 +0000,POST,/api/v1/users,302,2501,Normal Traffic
+45.33.22.11,02/Oct/2026:16:43:51 +0000,PUT,/index.html,201,786,Normal Traffic
+10.0.0.12,02/Oct/2026:16:44:21 +0000,POST,/api/v1/users,500,4813,Normal Traffic
+192.168.1.50,02/Oct/2026:16:44:51 +0000,DELETE,/assets/style.css,200,3073,Normal Traffic
+10.0.0.12,02/Oct/2026:16:45:21 +0000,POST,/assets/style.css,200,539,Normal Traffic
+185.220.101.5,02/Oct/2026:16:45:51 +0000,GET,/assets/style.css,404,1347,Normal Traffic
+45.33.22.11,02/Oct/2026:16:46:21 +0000,PUT,/api/v1/users,201,1437,Normal Traffic
+45.33.22.11,02/Oct/2026:16:46:51 +0000,GET,/dashboard,500,4851,Normal Traffic
+185.220.101.5,02/Oct/2026:16:47:21 +0000,POST,/products?id=1%20OR%201=1,500,4500,SQL Injection Attempt
+45.33.22.11,02/Oct/2026:16:47:51 +0000,POST,/api/v1/users,404,4824,Normal Traffic
+192.168.1.50,02/Oct/2026:16:48:21 +0000,DELETE,/login.php,200,4595,Normal Traffic
+185.220.101.5,02/Oct/2026:16:48:51 +0000,DELETE,/assets/style.css,500,4818,Normal Traffic
+185.220.101.5,02/Oct/2026:16:49:21 +0000,DELETE,/login.php,201,3539,Normal Traffic
+185.220.101.5,02/Oct/2026:16:49:51 +0000,POST,/assets/style.css,500,699,Normal Traffic
+45.33.22.11,02/Oct/2026:16:50:21 +0000,DELETE,/assets/style.css,404,1313,Normal Traffic
+45.33.22.11,02/Oct/2026:16:50:51 +0000,GET,/profile?name=%3Cscript%3E,404,1448,SQL Injection Attempt
+45.33.22.11,02/Oct/2026:16:51:21 +0000,DELETE,/assets/style.css,200,4897,Normal Traffic
+185.220.101.5,02/Oct/2026:16:51:51 +0000,PUT,/dashboard,500,4352,Normal Traffic
+192.168.1.50,02/Oct/2026:16:52:21 +0000,PUT,/api/v1/users,500,1623,Normal Traffic
+45.33.22.11,02/Oct/2026:16:52:51 +0000,POST,/dashboard,302,3012,Normal Traffic
+185.220.101.5,02/Oct/2026:16:53:21 +0000,PUT,/assets/style.css,404,4934,Normal Traffic
+185.220.101.5,02/Oct/2026:16:53:51 +0000,POST,/login.php,201,832,Normal Traffic
+185.220.101.5,02/Oct/2026:16:54:21 +0000,POST,/api/v1/users,500,389,Normal Traffic
+185.220.101.5,02/Oct/2026:16:54:51 +0000,PUT,/search?q=' UNION SELECT NULL--,500,526,SQL Injection Attempt
+185.220.101.5,02/Oct/2026:16:55:21 +0000,DELETE,/login.php,200,3533,Normal Traffic
+10.0.0.12,02/Oct/2026:16:55:51 +0000,DELETE,/assets/style.css,302,2444,Normal Traffic
+192.168.1.50,02/Oct/2026:16:56:21 +0000,PUT,/dashboard,500,1286,Normal Traffic
+172.16.254.1,02/Oct/2026:16:56:51 +0000,DELETE,/dashboard,302,541,Normal Traffic
+172.16.254.1,02/Oct/2026:16:57:21 +0000,DELETE,/login.php,201,855,Normal Traffic
+45.33.22.11,02/Oct/2026:16:57:51 +0000,POST,/api/v1/users,302,3731,Normal Traffic
+185.220.101.5,02/Oct/2026:16:58:21 +0000,DELETE,/dashboard,404,1402,Normal Traffic
+192.168.1.50,02/Oct/2026:16:58:51 +0000,POST,/api/v1/users,201,512,Normal Traffic
+185.220.101.5,02/Oct/2026:16:59:21 +0000,PUT,/assets/style.css,302,4360,Normal Traffic
+172.16.254.1,02/Oct/2026:16:59:51 +0000,DELETE,/dashboard,200,416,Normal Traffic
+185.220.101.5,02/Oct/2026:17:00:21 +0000,DELETE,/index.html,200,4567,Normal Traffic
+10.0.0.12,02/Oct/2026:17:00:51 +0000,GET,/api/v1/users,201,2250,Normal Traffic
+185.220.101.5,02/Oct/2026:17:01:21 +0000,DELETE,/index.html,201,3327,Normal Traffic
+45.33.22.11,02/Oct/2026:17:01:51 +0000,GET,/profile?name=%3Cscript%3E,404,3932,SQL Injection Attempt
+185.220.101.5,02/Oct/2026:17:02:21 +0000,POST,/products?id=1%20OR%201=1,500,4695,SQL Injection Attempt
+192.168.1.50,02/Oct/2026:17:02:51 +0000,POST,/index.html,302,4094,Normal Traffic
+185.220.101.5,02/Oct/2026:17:03:21 +0000,GET,/assets/style.css,302,2879,Normal Traffic
+45.33.22.11,02/Oct/2026:17:03:51 +0000,GET,/index.html,500,4891,Normal Traffic
+185.220.101.5,02/Oct/2026:17:04:21 +0000,POST,/index.html,302,327,Normal Traffic
+185.220.101.5,02/Oct/2026:17:04:51 +0000,PUT,/api/v1/users,404,3920,Normal Traffic
+185.220.101.5,02/Oct/2026:17:05:21 +0000,PUT,/login.php,404,504,Normal Traffic
+10.0.0.12,02/Oct/2026:17:05:51 +0000,DELETE,/index.html,302,3910,Normal Traffic
+185.220.101.5,02/Oct/2026:17:06:21 +0000,GET,/assets/style.css,200,3165,Normal Traffic
+45.33.22.11,02/Oct/2026:17:06:51 +0000,GET,/dashboard,200,963,Normal Traffic
+192.168.1.50,02/Oct/2026:17:07:21 +0000,POST,/assets/style.css,500,4572,Normal Traffic
+45.33.22.11,02/Oct/2026:17:07:51 +0000,PUT,/api/v1/users,500,3986,Normal Traffic
+45.33.22.11,02/Oct/2026:17:08:21 +0000,PUT,/dashboard,201,3051,Normal Traffic
+185.220.101.5,02/Oct/2026:17:08:51 +0000,POST,/login.php,302,3763,Normal Traffic
+10.0.0.12,02/Oct/2026:17:09:21 +0000,DELETE,/assets/style.css,201,817,Normal Traffic
+185.220.101.5,02/Oct/2026:17:09:51 +0000,DELETE,/products?id=1%20OR%201=1,500,1487,SQL Injection Attempt
+172.16.254.1,02/Oct/2026:17:10:21 +0000,GET,/dashboard,302,4374,Normal Traffic
+172.16.254.1,02/Oct/2026:17:10:51 +0000,GET,/dashboard,302,1572,Normal Traffic
+192.168.1.50,02/Oct/2026:17:11:21 +0000,GET,/index.html,500,4922,Normal Traffic
+45.33.22.11,02/Oct/2026:17:11:51 +0000,POST,/login.php,200,3204,Normal Traffic
+192.168.1.50,02/Oct/2026:17:12:21 +0000,PUT,/dashboard,404,1416,Normal Traffic
+45.33.22.11,02/Oct/2026:17:12:51 +0000,POST,/comment?text=<script>alert(1)</script>,404,3008,SQL Injection Attempt
+172.16.254.1,02/Oct/2026:17:13:21 +0000,GET,/login.php,404,2859,Normal Traffic
+172.16.254.1,02/Oct/2026:17:13:51 +0000,DELETE,/index.html,201,1252,Normal Traffic
+192.168.1.50,02/Oct/2026:17:14:21 +0000,PUT,/login.php,404,4728,Normal Traffic
+185.220.101.5,02/Oct/2026:17:14:51 +0000,GET,/dashboard,200,3162,Normal Traffic
+172.16.254.1,02/Oct/2026:17:15:21 +0000,GET,/index.html,201,1935,Normal Traffic
+185.220.101.5,02/Oct/2026:17:15:51 +0000,DELETE,/dashboard,302,4602,Normal Traffic
+10.0.0.12,02/Oct/2026:17:16:21 +0000,POST,/assets/style.css,302,4098,Normal Traffic
+192.168.1.50,02/Oct/2026:17:16:51 +0000,GET,/api/v1/users,500,462,Normal Traffic
+185.220.101.5,02/Oct/2026:17:17:21 +0000,PUT,/search?q=' UNION SELECT NULL--,500,3311,SQL Injection Attempt
+192.168.1.50,02/Oct/2026:17:17:51 +0000,GET,/index.html,500,505,Normal Traffic
+185.220.101.5,02/Oct/2026:17:18:21 +0000,PUT,/api/v1/users,302,3468,Normal Traffic
+10.0.0.12,02/Oct/2026:17:18:51 +0000,GET,/index.html,200,2079,Normal Traffic
+185.220.101.5,02/Oct/2026:17:19:21 +0000,DELETE,/login.php,500,1028,Normal Traffic
+45.33.22.11,02/Oct/2026:17:19:51 +0000,PUT,/api/v1/users,200,3367,Normal Traffic
+10.0.0.12,02/Oct/2026:17:20:21 +0000,POST,/index.html,200,4570,Normal Traffic
+45.33.22.11,02/Oct/2026:17:20:51 +0000,PUT,/assets/style.css,404,899,Normal Traffic
+172.16.254.1,02/Oct/2026:17:21:21 +0000,PUT,/assets/style.css,201,534,Normal Traffic
+45.33.22.11,02/Oct/2026:17:21:51 +0000,DELETE,/assets/style.css,500,3734,Normal Traffic
+172.16.254.1,02/Oct/2026:17:22:21 +0000,DELETE,/login.php,302,3292,Normal Traffic
+45.33.22.11,02/Oct/2026:17:22:51 +0000,GET,/dashboard,404,4208,Normal Traffic
+192.168.1.50,02/Oct/2026:17:23:21 +0000,DELETE,/login.php,500,1556,Normal Traffic
+45.33.22.11,02/Oct/2026:17:23:51 +0000,DELETE,/comment?text=<script>alert(1)</script>,404,4112,SQL Injection Attempt
+45.33.22.11,02/Oct/2026:17:24:21 +0000,DELETE,/index.html,302,4251,Normal Traffic
+185.220.101.5,02/Oct/2026:17:24:51 +0000,DELETE,/products?id=1%20OR%201=1,500,1862,SQL Injection Attempt
+192.168.1.50,02/Oct/2026:17:25:21 +0000,DELETE,/api/v1/users,302,2319,Normal Traffic
+192.168.1.50,02/Oct/2026:17:25:51 +0000,PUT,/login.php,201,1209,Normal Traffic
+192.168.1.50,02/Oct/2026:17:26:21 +0000,DELETE,/assets/style.css,200,3705,Normal Traffic
+192.168.1.50,02/Oct/2026:17:26:51 +0000,PUT,/login.php,500,1448,Normal Traffic
+172.16.254.1,02/Oct/2026:17:27:21 +0000,GET,/login.php,201,3120,Normal Traffic
+172.16.254.1,02/Oct/2026:17:27:51 +0000,POST,/dashboard,404,438,Normal Traffic
+172.16.254.1,02/Oct/2026:17:28:21 +0000,GET,/login.php,302,2849,Normal Traffic
+185.220.101.5,02/Oct/2026:17:28:51 +0000,PUT,/assets/style.css,500,1844,Normal Traffic
+185.220.101.5,02/Oct/2026:17:29:21 +0000,DELETE,/index.html,500,4041,Normal Traffic
+172.16.254.1,02/Oct/2026:17:29:51 +0000,DELETE,/api/v1/users,200,1391,Normal Traffic
+10.0.0.12,02/Oct/2026:17:30:21 +0000,GET,/index.html,201,2046,Normal Traffic
+172.16.254.1,02/Oct/2026:17:30:51 +0000,POST,/login.php,200,3875,Normal Traffic
+185.220.101.5,02/Oct/2026:17:31:21 +0000,GET,/api/v1/users,302,4543,Normal Traffic
+192.168.1.50,02/Oct/2026:17:31:51 +0000,DELETE,/index.html,302,3664,Normal Traffic
+185.220.101.5,02/Oct/2026:17:32:21 +0000,PUT,/search?q=' UNION SELECT NULL--,500,3306,SQL Injection Attempt
+185.220.101.5,02/Oct/2026:17:32:51 +0000,POST,/dashboard,302,635,Normal Traffic
+185.220.101.5,02/Oct/2026:17:33:21 +0000,GET,/dashboard,500,4746,Normal Traffic
+185.220.101.5,02/Oct/2026:17:33:51 +0000,DELETE,/api/v1/users,404,685,Normal Traffic
+172.16.254.1,02/Oct/2026:17:34:21 +0000,POST,/login.php,302,3137,Normal Traffic
+45.33.22.11,02/Oct/2026:17:34:51 +0000,GET,/profile?name=%3Cscript%3E,404,662,SQL Injection Attempt
+172.16.254.1,02/Oct/2026:17:35:21 +0000,POST,/assets/style.css,404,652,Normal Traffic
+185.220.101.5,02/Oct/2026:17:35:51 +0000,GET,/api/v1/users,201,3096,Normal Traffic
+45.33.22.11,02/Oct/2026:17:36:21 +0000,POST,/dashboard,201,1422,Normal Traffic
+172.16.254.1,02/Oct/2026:17:36:51 +0000,POST,/login.php,302,517,Normal Traffic
+45.33.22.11,02/Oct/2026:17:37:21 +0000,POST,/login.php,201,2351,Normal Traffic
+192.168.1.50,02/Oct/2026:17:37:51 +0000,GET,/assets/style.css,404,512,Normal Traffic
+172.16.254.1,02/Oct/2026:17:38:21 +0000,DELETE,/assets/style.css,404,2613,Normal Traffic
+185.220.101.5,02/Oct/2026:17:38:51 +0000,POST,/login.php,500,4111,Normal Traffic
+45.33.22.11,02/Oct/2026:17:39:21 +0000,GET,/assets/style.css,404,3529,Normal Traffic
+185.220.101.5,02/Oct/2026:17:39:51 +0000,POST,/search?q=' UNION SELECT NULL--,500,968,SQL Injection Attempt
+172.16.254.1,02/Oct/2026:17:40:21 +0000,GET,/api/v1/users,500,591,Normal Traffic
+185.220.101.5,02/Oct/2026:17:40:51 +0000,POST,/dashboard,200,566,Normal Traffic
+185.220.101.5,02/Oct/2026:17:41:21 +0000,PUT,/login.php,200,3995,Normal Traffic
+45.33.22.11,02/Oct/2026:17:41:51 +0000,DELETE,/index.html,404,1292,Normal Traffic
+45.33.22.11,02/Oct/2026:17:42:21 +0000,GET,/index.html,500,764,Normal Traffic
+45.33.22.11,02/Oct/2026:17:42:51 +0000,PUT,/assets/style.css,200,4869,Normal Traffic
+185.220.101.5,02/Oct/2026:17:43:21 +0000,POST,/assets/style.css,500,3690,Normal Traffic
+10.0.0.12,02/Oct/2026:17:43:51 +0000,PUT,/index.html,404,4053,Normal Traffic
+192.168.1.50,02/Oct/2026:17:44:21 +0000,POST,/index.html,201,2107,Normal Traffic
+45.33.22.11,02/Oct/2026:17:44:51 +0000,GET,/api/v1/users,404,1709,Normal Traffic
+172.16.254.1,02/Oct/2026:17:45:21 +0000,POST,/assets/style.css,200,1117,Normal Traffic
+45.33.22.11,02/Oct/2026:17:45:51 +0000,POST,/comment?text=<script>alert(1)</script>,404,3563,SQL Injection Attempt
+192.168.1.50,02/Oct/2026:17:46:21 +0000,POST,/login.php,201,1930,Normal Traffic
+10.0.0.12,02/Oct/2026:17:46:51 +0000,PUT,/assets/style.css,200,264,Normal Traffic
+185.220.101.5,02/Oct/2026:17:47:21 +0000,PUT,/search?q=' UNION SELECT NULL--,500,3626,SQL Injection Attempt
+45.33.22.11,02/Oct/2026:17:47:51 +0000,PUT,/login.php,500,669,Normal Traffic
+172.16.254.1,02/Oct/2026:17:48:21 +0000,PUT,/api/v1/users,302,3584,Normal Traffic
+45.33.22.11,02/Oct/2026:17:48:51 +0000,PUT,/dashboard,500,322,Normal Traffic
+192.168.1.50,02/Oct/2026:17:49:21 +0000,PUT,/login.php,302,320,Normal Traffic
+45.33.22.11,02/Oct/2026:17:49:51 +0000,POST,/assets/style.css,500,3894,Normal Traffic
+192.168.1.50,02/Oct/2026:17:50:21 +0000,GET,/assets/style.css,302,369,Normal Traffic
+185.220.101.5,02/Oct/2026:17:50:51 +0000,GET,/dashboard,500,3073,Normal Traffic
+10.0.0.12,02/Oct/2026:17:51:21 +0000,PUT,/assets/style.css,500,4367,Normal Traffic
+172.16.254.1,02/Oct/2026:17:51:51 +0000,POST,/assets/style.css,200,1170,Normal Traffic
+185.220.101.5,02/Oct/2026:17:52:21 +0000,DELETE,/login.php,302,967,Normal Traffic
+185.220.101.5,02/Oct/2026:17:52:51 +0000,GET,/assets/style.css,404,507,Normal Traffic
+10.0.0.12,02/Oct/2026:17:53:21 +0000,GET,/api/v1/users,302,1143,Normal Traffic
+172.16.254.1,02/Oct/2026:17:53:51 +0000,PUT,/login.php,404,3098,Normal Traffic
+172.16.254.1,02/Oct/2026:17:54:21 +0000,POST,/assets/style.css,404,1669,Normal Traffic
+185.220.101.5,02/Oct/2026:17:54:51 +0000,GET,/search?q=' UNION SELECT NULL--,500,1040,SQL Injection Attempt
+185.220.101.5,02/Oct/2026:17:55:21 +0000,DELETE,/api/v1/users,500,4306,Normal Traffic
+185.220.101.5,02/Oct/2026:17:55:51 +0000,POST,/api/v1/users,404,2124,Normal Traffic
+45.33.22.11,02/Oct/2026:17:56:21 +0000,PUT,/login.php,302,917,Normal Traffic
+45.33.22.11,02/Oct/2026:17:56:51 +0000,GET,/comment?text=<script>alert(1)</script>,404,1701,SQL Injection Attempt
+172.16.254.1,02/Oct/2026:17:57:21 +0000,DELETE,/login.php,302,1239,Normal Traffic
+10.0.0.12,02/Oct/2026:17:57:51 +0000,GET,/dashboard,302,4279,Normal Traffic
+172.16.254.1,02/Oct/2026:17:58:21 +0000,DELETE,/login.php,404,3708,Normal Traffic
+185.220.101.5,02/Oct/2026:17:58:51 +0000,DELETE,/api/v1/users,201,3820,Normal Traffic
+185.220.101.5,02/Oct/2026:17:59:21 +0000,DELETE,/dashboard,500,2287,Normal Traffic
+45.33.22.11,02/Oct/2026:17:59:51 +0000,GET,/index.html,500,3943,Normal Traffic
+10.0.0.12,02/Oct/2026:18:00:21 +0000,DELETE,/index.html,200,922,Normal Traffic
+185.220.101.5,02/Oct/2026:18:00:51 +0000,PUT,/index.html,201,1552,Normal Traffic
+192.168.1.50,02/Oct/2026:18:01:21 +0000,DELETE,/login.php,500,3863,Normal Traffic
+45.33.22.11,02/Oct/2026:18:01:51 +0000,GET,/dashboard,404,3303,Normal Traffic
+185.220.101.5,02/Oct/2026:18:02:21 +0000,PUT,/search?q=' UNION SELECT NULL--,500,395,SQL Injection Attempt
+45.33.22.11,02/Oct/2026:18:02:51 +0000,DELETE,/login.php,500,3607,Normal Traffic
+45.33.22.11,02/Oct/2026:18:03:21 +0000,POST,/index.html,200,921,Normal Traffic
+185.220.101.5,02/Oct/2026:18:03:51 +0000,POST,/dashboard,200,1062,Normal Traffic
+45.33.22.11,02/Oct/2026:18:04:21 +0000,DELETE,/dashboard,404,3736,Normal Traffic
+10.0.0.12,02/Oct/2026:18:04:51 +0000,GET,/assets/style.css,404,3462,Normal Traffic
+45.33.22.11,02/Oct/2026:18:05:21 +0000,PUT,/index.html,404,1003,Normal Traffic
+10.0.0.12,02/Oct/2026:18:05:51 +0000,DELETE,/assets/style.css,201,3973,Normal Traffic
+185.220.101.5,02/Oct/2026:18:06:21 +0000,GET,/assets/style.css,302,1749,Normal Traffic
+45.33.22.11,02/Oct/2026:18:06:51 +0000,GET,/index.html,500,4112,Normal Traffic
+185.220.101.5,02/Oct/2026:18:07:21 +0000,GET,/dashboard,404,3196,Normal Traffic
+45.33.22.11,02/Oct/2026:18:07:51 +0000,DELETE,/profile?name=%3Cscript%3E,404,882,SQL Injection Attempt
+172.16.254.1,02/Oct/2026:18:08:21 +0000,GET,/login.php,200,1047,Normal Traffic
+185.220.101.5,02/Oct/2026:18:08:51 +0000,PUT,/assets/style.css,302,2372,Normal Traffic
+45.33.22.11,02/Oct/2026:18:09:21 +0000,GET,/dashboard,404,1811,Normal Traffic
+185.220.101.5,02/Oct/2026:18:09:51 +0000,PUT,/search?q=' UNION SELECT NULL--,500,4088,SQL Injection Attempt
+10.0.0.12,02/Oct/2026:18:10:21 +0000,PUT,/login.php,500,3180,Normal Traffic
+192.168.1.50,02/Oct/2026:18:10:51 +0000,DELETE,/api/v1/users,302,1929,Normal Traffic
+172.16.254.1,02/Oct/2026:18:11:21 +0000,GET,/index.html,404,3309,Normal Traffic
+45.33.22.11,02/Oct/2026:18:11:51 +0000,DELETE,/login.php,200,299,Normal Traffic
+185.220.101.5,02/Oct/2026:18:12:21 +0000,DELETE,/assets/style.css,500,2218,Normal Traffic
+45.33.22.11,02/Oct/2026:18:12:51 +0000,PUT,/dashboard,500,3631,Normal Traffic
+185.220.101.5,02/Oct/2026:18:13:21 +0000,PUT,/assets/style.css,200,3294,Normal Traffic
+10.0.0.12,02/Oct/2026:18:13:51 +0000,GET,/api/v1/users,404,346,Normal Traffic
+45.33.22.11,02/Oct/2026:18:14:21 +0000,POST,/api/v1/users,404,3589,Normal Traffic
+185.220.101.5,02/Oct/2026:18:14:51 +0000,GET,/login.php,500,2374,Normal Traffic
+172.16.254.1,02/Oct/2026:18:15:21 +0000,PUT,/index.html,500,2505,Normal Traffic
+172.16.254.1,02/Oct/2026:18:15:51 +0000,DELETE,/index.html,200,209,Normal Traffic
+172.16.254.1,02/Oct/2026:18:16:21 +0000,PUT,/index.html,200,3057,Normal Traffic
+172.16.254.1,02/Oct/2026:18:16:51 +0000,PUT,/index.html,302,3405,Normal Traffic
+185.220.101.5,02/Oct/2026:18:17:21 +0000,PUT,/products?id=1%20OR%201=1,500,4357,SQL Injection Attempt
+185.220.101.5,02/Oct/2026:18:17:51 +0000,DELETE,/assets/style.css,201,1807,Normal Traffic
+192.168.1.50,02/Oct/2026:18:18:21 +0000,POST,/assets/style.css,500,3977,Normal Traffic
+45.33.22.11,02/Oct/2026:18:18:51 +0000,DELETE,/comment?text=<script>alert(1)</script>,404,258,SQL Injection Attempt
+185.220.101.5,02/Oct/2026:18:19:21 +0000,PUT,/login.php,404,3777,Normal Traffic
+172.16.254.1,02/Oct/2026:18:19:51 +0000,POST,/dashboard,404,3840,Normal Traffic
+10.0.0.12,02/Oct/2026:18:20:21 +0000,GET,/dashboard,200,2456,Normal Traffic
+10.0.0.12,02/Oct/2026:18:20:51 +0000,DELETE,/index.html,302,1780,Normal Traffic
+10.0.0.12,02/Oct/2026:18:21:21 +0000,PUT,/login.php,201,4136,Normal Traffic
+45.33.22.11,02/Oct/2026:18:21:51 +0000,GET,/index.html,404,1907,Normal Traffic
+10.0.0.12,02/Oct/2026:18:22:21 +0000,POST,/api/v1/users,404,2059,Normal Traffic
+172.16.254.1,02/Oct/2026:18:22:51 +0000,POST,/index.html,302,3499,Normal Traffic
+45.33.22.11,02/Oct/2026:18:23:21 +0000,DELETE,/index.html,201,3682,Normal Traffic
+192.168.1.50,02/Oct/2026:18:23:51 +0000,PUT,/login.php,404,4320,Normal Traffic
+172.16.254.1,02/Oct/2026:18:24:21 +0000,GET,/dashboard,200,4556,Normal Traffic
+185.220.101.5,02/Oct/2026:18:24:51 +0000,POST,/products?id=1%20OR%201=1,500,942,SQL Injection Attempt
+172.16.254.1,02/Oct/2026:18:25:21 +0000,GET,/login.php,201,4190,Normal Traffic
+172.16.254.1,02/Oct/2026:18:25:51 +0000,DELETE,/assets/style.css,200,3391,Normal Traffic
+192.168.1.50,02/Oct/2026:18:26:21 +0000,DELETE,/api/v1/users,404,3902,Normal Traffic
+10.0.0.12,02/Oct/2026:18:26:51 +0000,POST,/api/v1/users,302,1163,Normal Traffic
+45.33.22.11,02/Oct/2026:18:27:21 +0000,POST,/assets/style.css,200,3152,Normal Traffic
+185.220.101.5,02/Oct/2026:18:27:51 +0000,DELETE,/dashboard,302,4240,Normal Traffic
+192.168.1.50,02/Oct/2026:18:28:21 +0000,DELETE,/index.html,200,1092,Normal Traffic
+192.168.1.50,02/Oct/2026:18:28:51 +0000,PUT,/assets/style.css,500,4210,Normal Traffic
+10.0.0.12,02/Oct/2026:18:29:21 +0000,POST,/assets/style.css,404,2458,Normal Traffic
+45.33.22.11,02/Oct/2026:18:29:51 +0000,DELETE,/comment?text=<script>alert(1)</script>,404,3598,SQL Injection Attempt
+45.33.22.11,02/Oct/2026:18:30:21 +0000,POST,/index.html,201,1323,Normal Traffic
+185.220.101.5,02/Oct/2026:18:30:51 +0000,POST,/index.html,404,2230,Normal Traffic
+185.220.101.5,02/Oct/2026:18:31:21 +0000,DELETE,/api/v1/users,500,3340,Normal Traffic
+192.168.1.50,02/Oct/2026:18:31:51 +0000,DELETE,/dashboard,302,3572,Normal Traffic
+185.220.101.5,02/Oct/2026:18:32:21 +0000,GET,/search?q=' UNION SELECT NULL--,500,3142,SQL Injection Attempt
+45.33.22.11,02/Oct/2026:18:32:51 +0000,GET,/assets/style.css,201,2079,Normal Traffic
+10.0.0.12,02/Oct/2026:18:33:21 +0000,DELETE,/api/v1/users,201,4937,Normal Traffic
+45.33.22.11,02/Oct/2026:18:33:51 +0000,DELETE,/api/v1/users,302,4014,Normal Traffic
+45.33.22.11,02/Oct/2026:18:34:21 +0000,DELETE,/login.php,302,3872,Normal Traffic
+45.33.22.11,02/Oct/2026:18:34:51 +0000,DELETE,/index.html,500,4709,Normal Traffic
+192.168.1.50,02/Oct/2026:18:35:21 +0000,GET,/index.html,404,4529,Normal Traffic
+172.16.254.1,02/Oct/2026:18:35:51 +0000,DELETE,/api/v1/users,201,1909,Normal Traffic
+172.16.254.1,02/Oct/2026:18:36:21 +0000,POST,/assets/style.css,404,285,Normal Traffic
+45.33.22.11,02/Oct/2026:18:36:51 +0000,PUT,/index.html,500,4840,Normal Traffic
+10.0.0.12,02/Oct/2026:18:37:21 +0000,PUT,/api/v1/users,201,3979,Normal Traffic
+45.33.22.11,02/Oct/2026:18:37:51 +0000,PUT,/index.html,404,2009,Normal Traffic
+192.168.1.50,02/Oct/2026:18:38:21 +0000,DELETE,/assets/style.css,302,4434,Normal Traffic
+185.220.101.5,02/Oct/2026:18:38:51 +0000,PUT,/assets/style.css,302,818,Normal Traffic
+185.220.101.5,02/Oct/2026:18:39:21 +0000,GET,/assets/style.css,200,3356,Normal Traffic
+185.220.101.5,02/Oct/2026:18:39:51 +0000,POST,/search?q=' UNION SELECT NULL--,500,1157,SQL Injection Attempt
+185.220.101.5,02/Oct/2026:18:40:21 +0000,POST,/login.php,404,810,Normal Traffic
+45.33.22.11,02/Oct/2026:18:40:51 +0000,PUT,/profile?name=%3Cscript%3E,404,1956,SQL Injection Attempt
+172.16.254.1,02/Oct/2026:18:41:21 +0000,DELETE,/login.php,201,4248,Normal Traffic
+10.0.0.12,02/Oct/2026:18:41:51 +0000,POST,/dashboard,200,3691,Normal Traffic
+10.0.0.12,02/Oct/2026:18:42:21 +0000,GET,/index.html,404,3352,Normal Traffic
+192.168.1.50,02/Oct/2026:18:42:51 +0000,PUT,/dashboard,500,3111,Normal Traffic
+192.168.1.50,02/Oct/2026:18:43:21 +0000,DELETE,/login.php,200,3990,Normal Traffic
+192.168.1.50,02/Oct/2026:18:43:51 +0000,DELETE,/assets/style.css,500,4361,Normal Traffic
+172.16.254.1,02/Oct/2026:18:44:21 +0000,GET,/assets/style.css,404,3742,Normal Traffic
